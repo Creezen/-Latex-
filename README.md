@@ -6,7 +6,7 @@
 
 编译使用XeLaTex
 
-参考文献请添加再MyBib.bib中
+参考文献请添加在MyBib.bib中
 
 请勿删除mybst.bst文件
 
